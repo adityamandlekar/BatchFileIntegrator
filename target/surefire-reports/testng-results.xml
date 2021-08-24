@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Dell CIE Existing Test Automation Suite" duration-ms="22313" started-at="2021-08-24T00:44:52Z" finished-at="2021-08-24T00:45:14Z">
+    <groups>
+    </groups>
+    <test name="Test Dell Website Top Navigation" duration-ms="22313" started-at="2021-08-24T00:44:52Z" finished-at="2021-08-24T00:45:14Z">
+      <class name="com.test.existingTestAutomationSuite.testCase2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.existingTestAutomationSuite.testCase2@4909b8da]" name="setUp" is-config="true" duration-ms="7830" started-at="2021-08-23T20:45:04Z" finished-at="2021-08-23T20:45:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSolutionsLink()[pri:0, instance:com.test.existingTestAutomationSuite.testCase2@4909b8da]" name="testSolutionsLink" duration-ms="481" started-at="2021-08-23T20:45:12Z" finished-at="2021-08-23T20:45:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSolutionsLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.existingTestAutomationSuite.testCase2@4909b8da]" name="tearDown" is-config="true" duration-ms="1449" started-at="2021-08-23T20:45:12Z" finished-at="2021-08-23T20:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.existingTestAutomationSuite.testCase2 -->
+      <class name="com.test.existingTestAutomationSuite.testCase1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.existingTestAutomationSuite.testCase1@6615435c]" name="setUp" is-config="true" duration-ms="10603" started-at="2021-08-23T20:44:52Z" finished-at="2021-08-23T20:45:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testProductsLink()[pri:0, instance:com.test.existingTestAutomationSuite.testCase1@6615435c]" name="testProductsLink" duration-ms="604" started-at="2021-08-23T20:45:02Z" finished-at="2021-08-23T20:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductsLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.existingTestAutomationSuite.testCase1@6615435c]" name="tearDown" is-config="true" duration-ms="1329" started-at="2021-08-23T20:45:03Z" finished-at="2021-08-23T20:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.existingTestAutomationSuite.testCase1 -->
+    </test> <!-- Test Dell Website Top Navigation -->
+  </suite> <!-- Dell CIE Existing Test Automation Suite -->
+</testng-results>

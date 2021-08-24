@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Dell CIE Existing Test Automation Suite" verbose="2">
+    <test name="Test Dell Website Top Navigation">
+        <classes>
+            <class name="com.test.existingTestAutomationSuite.testCase1"/>
+            <class name="com.test.existingTestAutomationSuite.testCase2"/>
+        </classes>
+    </test>
+</suite>

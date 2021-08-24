@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="selenium-firefox-driver-3.141.59">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../17. Dell - Test Strategy/04. POC/selenium-firefox-driver-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../17. Dell - Test Strategy/04. POC/selenium-server-standalone-3.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../17. Dell - Test Strategy/04. POC/testng-6.9.9.jar/testng-6.9.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
